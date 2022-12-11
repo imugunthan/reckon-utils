@@ -1,7 +1,7 @@
 {
-  "name": "reckon-utils-new",
-  "version": "1.0.7",
-  "description": "A nice greeter",
+  "name": "reckoner-utilities",
+  "version": "1.0.0",
+  "description": "Common utility function library created by reckoners",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
